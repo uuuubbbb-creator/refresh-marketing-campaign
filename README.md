@@ -165,11 +165,7 @@ IMC 실행                    NFC 리프레시 게임 · 필아웃 트레이 · 
 - 📄 전략 기획서: [`제안서/성남시_소상공인_카페_광고기획서.pdf`](./제안서/성남시_소상공인_카페_광고기획서.pdf)
 - 🎬 광고 영상 2편: [`홍보영상/`](./홍보영상)
 
-**필아웃커피 40초 캠페인 영상**
-
-<video src="./홍보영상/필아웃커피_40초_캠페인영상.mp4" controls width="480"></video>
-
-▶ [영상이 안 보이면 여기를 클릭](./홍보영상/필아웃커피_40초_캠페인영상.mp4) (또는 [Google Drive](https://drive.google.com/file/d/1NHVoI-bVTFHUtJPdvEOshbFdkMXQwMrj/view))
+**필아웃커피 40초 캠페인 영상** — [Google Drive에서 보기](https://drive.google.com/file/d/1NHVoI-bVTFHUtJPdvEOshbFdkMXQwMrj/view)
 
 **힙스토어 20초 캠페인 영상**
 
